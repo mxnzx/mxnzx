@@ -68,7 +68,7 @@
 
 ## ✏️ Problem Solving
 <img style="height:150px;" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=i0692631"/>
-<img style="height:150px;" src="https://mazandi.herokuapp.com/api?handle=i0692631&theme=warm"/>
+<!-- <img style="height:150px;" src="https://mazandi.herokuapp.com/api?handle=i0692631&theme=warm"/> -->
 
 <br/>
 
