@@ -74,5 +74,5 @@
 
 ## 📫 Contact & Channel
 <a href="https://velog.io/@mxnzx"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@mxnzx"/></a> 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:i0692631@gmail.com"/>
+<a href="mailto:i0692631@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:i0692631@gmail.com"/></a>
 
